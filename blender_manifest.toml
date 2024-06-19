@@ -1,0 +1,22 @@
+schema_version = "1.0.0"
+
+id = "face_set_operators"
+name = "Face Set Operators"
+version = "1.0.0"
+tagline = "Convert sculpt mode attributes into anything you need"
+maintainer = "Nika Kutsniashvili <nickberckley@gmail.com>"
+type = "add-on"
+
+website = "https://blenderartists.org/t/face-set-operators/"
+blender_version_min = "4.2.0"
+
+## Optional list defined by Blender and server, see:
+## https://docs.blender.org/manual/en/dev/advanced/extensions/tags.html
+tags = ["Sculpt", "Mesh"]
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+copyright = [
+  "2024 Nika Kutsniashvili",
+]
